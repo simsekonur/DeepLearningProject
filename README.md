@@ -9,3 +9,14 @@ This repository will include the work that I have done during my first internshi
 **3)broadcasting.py :** This file is created to recognize how Python behaves in the case of we are trying to add two matrices which are of dimensions 3x4 and 1x4.In mathemetically speaking, this operation can not be performed.However, this file shows that with only one line of code a 3x4 matrix can be divided by 1x4 matrix with the help of the broadcasting. I also do the same operation with two explicit for loop to see how hard it is with compared to built in function implementation.
 
 **4)first-exercise.py :** This file contains a lot of useful and well implemented functions which then can be used in the implementation of deep learning.These are the solutions to the first exercise in deep learning course in Coursera. I understand how numpy can be used and what are the important functions that I need to use.
+
+**5)Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb :** This file is created to solve the first programming assingment of the course. Here is a step by step description of the algorithm which is a classification of images as a cat image or a non cat image:
+  - Helper functions (like sigmoid)
+  - Initilization of the parameter (w,b)
+  - Propogate 
+  - Optimize
+  - Predict (By looking the value of sigmoid that is calculated by using parameter w and b, the prediction is done as 1 or 0)
+  - Model (this is a function that merges all the function and calls them in correct order.)
+  
+  Remember that .h5 files are important. Why??
+  
