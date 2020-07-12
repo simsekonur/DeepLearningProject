@@ -10,7 +10,7 @@ This repository will include the work that I have done during my first internshi
 
 **4)first-exercise.py :** This file contains a lot of useful and well implemented functions which then can be used in the implementation of deep learning.These are the solutions to the first exercise in deep learning course in Coursera. I understand how numpy can be used and what are the important functions that I need to use.
 
-**5)Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb :** This file is created to solve the first programming assingment of the course. Here is a step by step description of the algorithm which is a classification of images as a cat image or a non cat image:
+**5)Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb :** This file is created to solve the first programming assignment of the course. Here is a step by step description of the algorithm which is a classification of images as a cat image or a non cat image:
   - Helper functions (like sigmoid)
   - Initilization of the parameter (w,b)
   - Propogate 
