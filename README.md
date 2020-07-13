@@ -20,3 +20,5 @@ This repository will include the work that I have done during my first internshi
   
   Remember that .h5 files are important. Why??
   
+  **6)Exercise_1_House_Prices_Question.ipynb :** This file is created to predict the price of a house by using number of bedroom. In a sense, what we can do might simply be write a function that returns the price. However, instead of give as the parameter we train the data with several cases.And we want our model to "predict" for some certain numbers.In the case where we have images as input parameters, this method will be very useful.
+  
