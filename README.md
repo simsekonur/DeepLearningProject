@@ -22,3 +22,9 @@ This repository will include the work that I have done during my first internshi
   
   **6)Exercise_1_House_Prices_Question.ipynb :** This file is created to predict the price of a house by using number of bedroom. In a sense, what we can do might simply be write a function that returns the price. However, instead of give as the parameter we train the data with several cases.And we want our model to "predict" for some certain numbers.In the case where we have images as input parameters, this method will be very useful.(Computer Vision)
   
+  **7)Exercise2-Question.ipynb :** Predicting which number that handwritten number belongs to.
+  
+  **8)clothing.ipynb :** Predicting the clothing.
+  
+  **9)callback.ipynb :** Understanding callback which enables us to stop if we reach the enough accuracy without going the last epoch.
+  
