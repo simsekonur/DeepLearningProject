@@ -27,4 +27,6 @@ This repository will include the work that I have done during my first internshi
   **8)clothing.ipynb :** Predicting the clothing.
   
   **9)callback.ipynb :** Understanding callback which enables us to stop if we reach the enough accuracy without going the last epoch.
+ 
+ **10)Exercise2WithConvolutionAndPooling :** The same handwritten program with convolution and pooling. See how the accuracy is increased.
   
